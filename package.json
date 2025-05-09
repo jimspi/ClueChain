@@ -1,0 +1,12 @@
+{
+  "name": "cluechain",
+  "version": "1.0.0",
+  "description": "ClueChain daily puzzle game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
